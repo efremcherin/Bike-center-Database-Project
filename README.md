@@ -1,2 +1,4 @@
 # Bike-center-Database-Project
-Creato uno schema concettuale e implementato in MySQL, creando le tabelle e popolando il database con dati di prova. Costruite infine query utili per il negozio come indicato nei requisiti.
+• Created a conceptual schema and a logic schema after being given some requirements for an hypothetical bike center
+• Implemented the logical schema in MySQL, created the tables and populated the database with sample data.
+• Constructed some useful queries for the bike center as indicated in the requirements.
