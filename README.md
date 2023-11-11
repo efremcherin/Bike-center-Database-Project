@@ -4,3 +4,5 @@
 • Implemented the logical schema in MySQL, created the tables and populated the database with sample data.
 
 • Constructed some useful queries for the bike center as indicated in the requirements.
+
+The project is in italian language.
